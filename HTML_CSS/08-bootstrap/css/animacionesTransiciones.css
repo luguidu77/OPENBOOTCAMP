@@ -1,0 +1,11 @@
+.animacion:hover{
+ background-color: blue;
+ color: aliceblue;
+ translate: -5px;
+ box-shadow: 10px 10px;
+ transition:  0.4s;
+}
+
+.boton{
+  background-color: blueviolet;
+}
